@@ -41,6 +41,8 @@ The columns of the dataset were as follows:
 
 [Data Modeling](https://github.com/nasehacho/financial-fraud-detection/blob/main/notebooks/03-Fraud-Data-Modeling.ipynb)
 
+The chosen ensemble method used for this dataset had been the Random Forest Model. A random forest is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
+
 ## Fraud Report
 
 [Data Report](https://github.com/nasehacho/financial-fraud-detection/blob/main/notebooks/04-Fraud-Report.ipynb)
