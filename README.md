@@ -33,6 +33,12 @@ The columns of the dataset were as follows:
 
 [Exploratory Data Analysis](https://github.com/nasehacho/financial-fraud-detection/blob/main/notebooks/01-Fraud-Data-Initial-EDA.ipynb)
 
+<div style="text-align:center">
+  <img src="images/Numerical.png">
+  <img src="images/Categorical.png">
+  <img src="images/Correlation.png">
+</div>
+
 ## Pre-Processing
 
 [Data Pre-Processing](https://github.com/nasehacho/financial-fraud-detection/blob/main/notebooks/02-Fraud-Data-Pre-Processing.ipynb)
