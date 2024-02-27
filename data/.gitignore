@@ -1,2 +1,2 @@
 # ignore a CSV file in  Git repository and prevent it from being pushed to GitHub
-*.csv
+*.csv 
